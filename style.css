@@ -1,0 +1,19 @@
+.accordionItem {
+    border: 2px solid black;
+    margin-bottom: 10px;
+}
+
+.accordionHeader {
+    background-color: #fafafa;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.accordionContent {
+    display: none;
+    padding: 10px;
+}
+
+.accordionHeader:hover{
+    background-color:#972121;
+}
